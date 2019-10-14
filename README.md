@@ -1,4 +1,4 @@
-# Cloud stotage notifications for Go
+# Cloud storage notifications for Go
 
 Watch objects in S3 buckets and get notifiations when they have changed.
 
