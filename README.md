@@ -11,4 +11,4 @@ Inspired by [fsnotify](https://github.com/fsnotify/fsnotify)
 
 ## Examples
 
-* **s3-reload** - https://github.com/maorfr/s3-reload
+* **s3-reload** - https://github.com/app-sre/s3-reload
