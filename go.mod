@@ -1,4 +1,4 @@
-module github.com/maorfr/csnotify
+module github.com/app-sre/csnotify
 
 go 1.13
 
